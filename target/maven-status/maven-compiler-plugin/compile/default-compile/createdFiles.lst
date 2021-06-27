@@ -1,0 +1,5 @@
+process\LogCleanJob.class
+bean\LogBean.class
+process\LogCleanJob$MyMapper.class
+process\LogCleanJob$LogParser.class
+process\LogCleanJob$MyReducer.class
